@@ -1,0 +1,39 @@
+
+
+de:
+  send: "Senden"
+  westsaal: "Westsaal"
+  hauptsaal: "Hauptsaal"
+  schulungsraum: "Schulungsraum"
+  log: "Log"
+  belegung: "Belegung"
+  
+  menu:
+    other: "andere"
+  open_files: 'Dateien öffnen'
+  scanner:  
+    no_connection: 'keine Verbindung zum Scanner'
+  main:
+    title: "frontDesk 0.1a"
+  account:
+    locked: "gelocket?"
+    scanned: "eingelesen"
+    ask_remove: "Accounts <b>{{accounts}}</b> von Karte entfernen?"  
+  sendtext:
+    title: Text senden
+    default: |
+          wir machen in 20min (18Uhr) zu
+              
+    
+en:
+  open_files: 'open files'
+  scanner:
+    no_connection: 'no connection to scanner'
+  main:
+    title: 'frontDesk 0.1a by seb'
+  account:
+    scanned: "scanned"
+    ask_remove: "Remove accounts from card?"  
+  sendtext:
+    title: send text
+    default:  the unix-pool will close in about 20min (6pm)
